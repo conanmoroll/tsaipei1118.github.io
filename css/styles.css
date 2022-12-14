@@ -311,10 +311,8 @@ svg {
 }
 
 table {
-  width: 10rem;
   caption-side: bottom;
   border-collapse: collapse;
-  text-align: center;
 }
 
 caption {
